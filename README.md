@@ -19,7 +19,7 @@ Interactive dashboard showcasing sales and shipping trends found [here](https://
 
 # Data Structure
 
-![image](https://github.com/eimon851/elist-analysis/blob/main/data-schema.png?raw=true)
+![image](https://github.com/eimon851/elist-analysis/blob/main/images/data-schema.png?raw=true)
 
 
 # Executive Summary
