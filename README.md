@@ -19,14 +19,14 @@ Interactive dashboard showcasing sales and shipping trends found [here](https://
 
 # Data Structure
 
-![image](https://github.com/user-attachments/assets/560419b2-67a5-4416-9f0b-aad0bc20738a)
+![image](https://github.com/eimon851/elist-analysis/blob/main/data-schema.png?raw=true)
 
 
 # Executive Summary
 
 ***Ovierview of Finding***
 
-![image](https://github.com/eimon851/elist-analysis/blob/main/data-schema.png?raw=true)
+![image](https://github.com/eimon851/elist-analysis/blob/main/elist-dashboard.png?raw=true)
 
 
 In 2022, **Elist** experienced **significant declines** in both **total sales** and **order count**, with a **-46% drop in sales** to **$4,957,580** and a **-40% reduction in orders** to **21,565** compared to the previous year. The seasonality analysis reveals **strong end-of-year peaks** in sales, with **December consistently performing best**, such as **$1,251,721** in December 2020, while **January and February often dip**, like **$246,839** in February 2019. Sales and order counts show a **noticeable decline from early to mid-2022**, indicating a potential market downturn. The **average order value (AOV)** typically increases during high-sales periods, peaking at **$311** in December 2020. Additionally, **mid-year months like July and August show moderate increases**, reflecting a possible secondary peak in consumer activity.
@@ -35,20 +35,20 @@ In 2022, **Elist** experienced **significant declines** in both **total sales** 
 
 # Excel Analysis
 
-![image](https://github.com/user-attachments/assets/ed7717d2-aa48-415b-a506-d97181e85876)
+![image](https://github.com/eimon851/elist-analysis/blob/main/excel-1.png?raw=true)
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/a1ff20c2-8cfc-419c-b8f5-2b058a9f02cd)
+![image](https://github.com/eimon851/elist-analysis/blob/main/excel2.png?raw=true)
 
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/9fc5b0fc-21e8-4b9f-b53c-29047e177f8d)
+![image](https://github.com/eimon851/elist-analysis/blob/main/excel-3.png?raw=true)
 
 ---------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/19bd515d-393b-478c-85bf-5505df4254db)
+![image](https://github.com/eimon851/elist-analysis/blob/main/excel-4.png?raw=true)
 
 # Recommendations
 - Seasonality: 
